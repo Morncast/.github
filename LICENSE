@@ -1,0 +1,32 @@
+Morncast Community 
+
+Code in this repository (Morncast Community), unless specified elsewhere in this
+document, including embedded code in other content, is licensed under the MIT
+license. All other content is licensed under a Creative Commons
+Attribution-ShareAlike 4.0 International License, unless specified elsewhere in
+this document.
+
+You have received a copy of the MIT and Creative Commons licenses along with
+this work in the MIT_LICENSE and CC_BY-SA_LICENSE files, respectively. An online
+version of the Creative Commons license is available at
+<https://creativecommons.org/licenses/by-sa/4.0/>.
+
+--------------------------------------------------------------------------------
+
+In addition to the above license details, Morncast Community includes third party code and
+adaptations of other files that has been made available under various licenses.
+
+
+CONDUCT.md:
+
+Adapted From - https://github.com/hackclub/hackclub/blob/main/CODE_OF_CONDUCT.md
+License - Creative Commons Attribution 3.0, https://creativecommons.org/licenses/by/3.0/
+Changes - We took the code of conduct which was written in HTML, converted it to
+          Markdown, and made modifications to it to fit our needs.
+
+README.md:
+
+Adapted From - https://github.com/hackclub/hackclub/blob/main/README.md
+License - BSD 3-Clause License (Revised), https://opensource.org/licenses/BSD-3-Clause
+Changes - We took the contribution guide and made modifications to it to fit our
+          needs.
